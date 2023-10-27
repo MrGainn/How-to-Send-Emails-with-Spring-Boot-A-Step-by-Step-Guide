@@ -1,9 +1,9 @@
 
 spring:
   mail:
-    host: smtp.gmail.com
-    username: hackmalli2020@gmail.com
-    password: meyacucmrraayazl
+    host: smtp-mail.outlook.com
+    username: timonwin@outlook.com
+    password: rvpxsfxvxqaitnmd
     port: 587
     properties:
       mail:
